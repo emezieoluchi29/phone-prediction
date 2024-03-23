@@ -11,7 +11,7 @@ st.markdown("<h1 style = 'color: #0C2D57; text-align: center; font-family: helve
 st.markdown("<h4 style = 'margin: -30px; color: #F11A7B; text-align: center; font-family: cursive '>Built By Emezie Oluchi</h4>", unsafe_allow_html = True)
 st.markdown("<br>", unsafe_allow_html= True)
 
-st.image('resources/phone_image.png', width= 200)
+st.image('phone_image.png', width= 200)
 
 st.markdown("<h4 style = 'margin: -30px; color: green; text-align: center; font-family: helvetica '>Project Overview</h4>", unsafe_allow_html = True)
 
@@ -20,7 +20,7 @@ st.write("The goal of this project is to develop a predictive model that assesse
 st.markdown("<br>", unsafe_allow_html= True)
 st.dataframe(data, use_container_width= True)
 
-st.sidebar.image('resources/pngwing.com (1).png', caption = 'Welcome Dear User')
+st.sidebar.image('pngwing.com (1).png', caption = 'Welcome Dear User')
 
 ram = st.sidebar.number_input('ram')
 battery_power = st.sidebar.number_input('battery_power',)
