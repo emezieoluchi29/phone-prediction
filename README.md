@@ -1,6 +1,6 @@
-** Mobile Phone Price Range Prediction**
+**Mobile Phone Price Range Prediction**
 
-** Overview**
+**Overview**
 This project focuses on predicting the price range of mobile phones based on their features. The aim is to provide a tool that can assist users in understanding the expected price range of a mobile phone given its specifications. 
 
 **Dataset**
